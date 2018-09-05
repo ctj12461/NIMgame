@@ -6,7 +6,7 @@
 #### If the total less than 0，you win. But you must defier the computer. It means lost is easily.
 #### Enjoy the game!
 #### By Ctj
-#### This project is free and open soures.
+#### This project is free and open source.
 #### Version 5.2.0.0
 - - - -
 ## Functions
